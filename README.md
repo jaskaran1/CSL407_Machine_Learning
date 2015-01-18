@@ -1,2 +1,3 @@
 # CSL407_Machine_Learning
-Machine learning course at IIT Ropar
+This folder contains all the programming assignments done for the Machine Learning course at IIT Ropar.
+Instructor-CK Narayanan
